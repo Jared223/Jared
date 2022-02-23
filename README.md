@@ -12,7 +12,7 @@ Based in the UK :flag_gb:
 
 When I'm not programming, you can often find me playing videogames or having fun travelling! 
 
-Travelling and its thrill of exploring new cultures and creating new memories is unmatched. I've had many great times visiting family in the US :flag_us: and Hungary :flag_hu:
+Travelling and its thrill of exploring new cultures and creating new memories is unmatched. I've had many great times visiting family in the US :us: and :hungary: !
 
 
 
