@@ -7,6 +7,16 @@
 ### Computer Science Career :man_technologist: 
 I am a passionate first year computer scientist at [The University of Nottingham](https://www.nottingham.ac.uk) and have experience working on both front-end and back-end development. I'm currently in the Unicorns software engineering team for which you can find the link to our projects at the top. 
 
+Languages studying:
+- C 
+- Java
+- Python
+- HTML
+- PHP
+- JavaScript
+- SQL
+- ARM Assembly
+
 ### Personal Life 
 Based in the UK 
 
@@ -19,3 +29,4 @@ Travelling and its thrill of exploring new cultures and creating new memories is
 <a href="https://www.facebook.com/profile.php?id=100071710758821">
    <img src="https://i.ibb.co/7kyVShm/resized-image-Promo-4.jpg">
 </a>
+
