@@ -2,7 +2,7 @@
 
 ## [Email](jaredpollack@hotmail.co.uk) | [Unicorns GitLab](https://projects.cs.nott.ac.uk/comp1003-2122-teams/team_50/coursework)
 
-![Me in Boston](https://i.ibb.co/LJtMpZX/Screenshot-2022-02-24-at-00-29-19.png)
+
 
 ## About Me!
 
