@@ -24,7 +24,6 @@ When I'm not programming, you can often find me playing videogames or having fun
 
 Travelling and its thrill of exploring new cultures and creating new memories is unmatched. I've had many great times visiting family in the US and Hungary!
 
-![Me in Boston](https://i.ibb.co/wQB9F7v/Screenshot-2022-02-24-at-00-26-06.png)
 
 ### Socials 
 
