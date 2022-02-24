@@ -8,11 +8,11 @@
 I am a passionate first year computer scientist at [The University of Nottingham](https://www.nottingham.ac.uk) and have experience working on both front-end and back-end development. I'm currently in the Unicorns software engineering team for which you can find the link to our projects at the top. 
 
 ### Personal Life 
-Based in the UK :uk:
+Based in the UK 
 
 When I'm not programming, you can often find me playing videogames or having fun travelling! 
 
-Travelling and its thrill of exploring new cultures and creating new memories is unmatched. I've had many great times visiting family in the US :us: and :hungary: !
+Travelling and its thrill of exploring new cultures and creating new memories is unmatched. I've had many great times visiting family in the US and Hungary!
 
 ### Socials 
 
