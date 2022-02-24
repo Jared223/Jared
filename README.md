@@ -17,5 +17,5 @@ Travelling and its thrill of exploring new cultures and creating new memories is
 ### Socials 
 
 <a href="https://www.facebook.com/profile.php?id=100071710758821">
-   <img src="https://i.ibb.co/LRgQ1Q7/resized-image-Promo-3.jpg">
+   <img src="https://i.ibb.co/7kyVShm/resized-image-Promo-4.jpg">
 </a>
