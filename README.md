@@ -24,7 +24,7 @@ Based in the UK
 
 When I'm not programming, you can often find me playing videogames or having fun travelling! 
 
-Travelling and its thrill of exploring new cultures and creating new memories is unmatched. I've had many great times visiting family in the US and Hungary!
+Travelling and its thrill of exploring new cultures and creating new memories is unmatched. 
 
 
 ### Socials 
